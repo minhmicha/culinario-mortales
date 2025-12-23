@@ -1,0 +1,19 @@
+{
+  "name": "Grand Hotel Flora - Culinario Mortale",
+  "short_name": "Grand Hotel",
+  "description": "Ein Culinario Mortale Krimi-Dinner im August 1962",
+  "start_url": "/culinario-mortales/",
+  "display": "standalone",
+  "background_color": "#e8c4c4",
+  "theme_color": "#d4af37",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/culinario-mortales/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
+

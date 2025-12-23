@@ -1,52 +1,51 @@
 export const eventSchedule = [
   {
-    time: '18:00',
     phase: 'Ankunft im Grand Hotel',
-    icon: '🥂',
-    description: 'Empfang mit Champagner in der Hotellobby',
+    icon: 'fa-solid fa-champagne-glasses',
+    description: 'Empfang mit Sekt in der Hotellobby',
     details: 'Bitte pünktlich erscheinen! Erste Gelegenheit für Networking.'
   },
   {
-    time: '18:30',
     phase: 'Begrüßung & Vorstellung',
-    icon: '🎭',
+    icon: 'fa-solid fa-microphone-lines',
     description: 'Offizielle Eröffnung durch den Gastgeber',
     details: 'Alle Gäste stellen sich kurz vor (1-2 Sätze). Der Prolog wird vorgelesen.'
   },
   {
-    time: '19:00',
     phase: 'Dinner - Runde 1',
-    icon: '🍽️',
+    icon: 'fa-solid fa-bowl-food',
     description: 'Vorspeise & erster Hinweis-Abschnitt',
-    details: 'Zeitraum 15:00-18:00 Uhr rekonstruieren. Charaktere kennenlernen und erste Verdachtsmomente.'
+    details: 'Charaktere kennenlernen und erste Verdachtsmomente sammeln.'
   },
   {
-    time: '20:00',
     phase: 'Dinner - Runde 2',
-    icon: '🔍',
+    icon: 'fa-solid fa-utensils',
     description: 'Hauptgang & zweiter Hinweis-Abschnitt',
-    details: 'Zeitraum 18:00-21:00 Uhr diskutieren. Ereignis A wird vorgelesen. Ermittlungen vertiefen.'
+    details: 'Ereignis A wird vorgelesen. Ermittlungen vertiefen.'
   },
   {
-    time: '21:00',
     phase: 'Dinner - Runde 3',
-    icon: '💎',
+    icon: 'fa-solid fa-ice-cream',
     description: 'Dessert & finaler Hinweis-Abschnitt',
-    details: 'Zeitraum 21:00-23:00 Uhr. Ereignis B wird vorgelesen. Letzte Hinweise sammeln.'
+    details: 'Ereignis B wird vorgelesen. Letzte Hinweise sammeln.'
   },
   {
-    time: '22:00',
     phase: 'Verdächtigungen & Abstimmung',
-    icon: '⚖️',
+    icon: 'fa-solid fa-gavel',
     description: 'Jeder äußert seinen Verdacht',
     details: 'Verdächtigte dürfen sich verteidigen. Anschließend stimmt jeder ab, wen er für schuldig hält.'
   },
   {
-    time: '22:30',
     phase: 'Auflösung',
-    icon: '🎯',
+    icon: 'fa-solid fa-mask',
     description: 'Enthüllung: Wer ist der Mörder von Monique Moreau?',
     details: 'Die Aufklärung wird vorgelesen. Habt ihr richtig getippt? Das Geheimnis wird gelüftet!'
+  },
+  {
+    phase: 'Happy New Year!',
+    icon: 'fa-solid fa-calendar-days',
+    description: 'Countdown um Mitternacht',
+    details: 'Gemeinsam stoßen wir auf das neue Jahr an. Prosit Neujahr! 🎆'
   }
 ]
 

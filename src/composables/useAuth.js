@@ -19,7 +19,10 @@ export function useAuth() {
         guestName: codeData.guestName,
         characterId: codeData.characterId,
         character: character,
-        culinarioLink: codeData.culinarioLink
+        culinarioLink: codeData.culinarioLink,
+        personalMessage: codeData.personalMessage,
+        partnerHint: codeData.partnerHint,
+        techWarning: codeData.techWarning
       }
       
       // Save to localStorage

@@ -9,13 +9,15 @@
     
     <div class="iframe-container">
       <iframe
+        style="border-radius:12px"
         :src="musicConfig.spotify.embedUrl"
         width="100%"
         height="352"
-        frameborder="0"
+        frameBorder="0"
         allowfullscreen=""
         allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"
         loading="lazy"
+        title="Spotify Player - Grand Hotel Background Music"
       ></iframe>
     </div>
   </div>
@@ -29,7 +31,7 @@ import { musicConfig } from '@/data/music'
 .spotify-player {
   background: rgba(26, 26, 26, 0.95);
   border-radius: 20px;
-  padding: 1.5rem;
+  padding: 2rem;
   box-shadow: 0 10px 30px rgba(0, 0, 0, 0.3);
 }
 
