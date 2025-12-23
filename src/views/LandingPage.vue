@@ -22,7 +22,7 @@
         <div class="image-section">
           <div class="image-frame">
             <img 
-              src="/culinario-mortales/images/grand-hotel.png" 
+              src="/images/grand-hotel.png" 
               alt="Grand Hotel" 
               class="hotel-image"
               @error="handleImageError"
