@@ -1,5 +1,5 @@
-// TEMPORARY: Unencrypted for testing
-// Access codes in plain text
+// Access codes for Grand Hotel Event
+// Last updated: 2025-12-29
 
 export const accessCodes = {
   'SENATOR-1962': {
