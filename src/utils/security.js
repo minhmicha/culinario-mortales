@@ -36,3 +36,4 @@ export function encode(data) {
   return btoa(xored)
 }
 
+
