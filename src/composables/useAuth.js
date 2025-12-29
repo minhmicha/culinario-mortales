@@ -14,11 +14,17 @@ export function useAuth() {
       const codeData = accessCodes[upperCode]
       const character = characters[codeData.characterId]
       
+      // Override pdfUrl with culinarioLink from codes.js
+      const characterWithPdf = {
+        ...character,
+        pdfUrl: codeData.culinarioLink
+      }
+      
       currentUser.value = {
         code: upperCode,
         guestName: codeData.guestName,
         characterId: codeData.characterId,
-        character: character,
+        character: characterWithPdf,
         culinarioLink: codeData.culinarioLink,
         personalMessage: codeData.personalMessage,
         partnerHint: codeData.partnerHint,
