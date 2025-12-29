@@ -5,14 +5,14 @@ export const accessCodes = {
   'SENATOR-1962': {
     characterId: 'jack-oconnor',
     guestName: 'Alex',
-    culinarioLink: '/pdfs/jack-oconnor.pdf',
+    culinarioLink: '/pdfs/jack-o-connor.pdf',
     personalMessage: 'Willkommen im Grand Hotel! Von der Studio-Regie zur politischen Bühne – heute komponierst du den perfekten Auftritt als Senator. Der Rhythmus der Macht erwartet dich! 🎩🎵',
     partnerHint: '⚠️ Spielregel: Vermeide private Gespräche mit Merle außerhalb eurer Rollen – bleibt im Spiel!'
   },
   'ROSE-BOUCLE': {
     characterId: 'madeleine-oconnor',
     guestName: 'Shireen',
-    culinarioLink: '/pdfs/madeleine-oconnor.pdf',
+    culinarioLink: '/pdfs/madeleine-o-connor.pdf',
     personalMessage: 'Willkommen im Grand Hotel! Als diskrete First Lady repräsentierst du Eleganz und Warmherzigkeit hinter den Kulissen der Politik. Ein stilvoller Abend erwartet dich! 👒✨',
     partnerHint: '⚠️ Spielregel: Vermeide private Gespräche mit Micha außerhalb eurer Rollen – bleibt im Spiel!'
   },

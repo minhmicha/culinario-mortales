@@ -6,7 +6,7 @@ export const characters = {
     title: 'Senator',
     silhouetteIcon: '🎩',
     imageUrl: '/culinario-mortales/images/characters/jack-oconnor.svg',
-    pdfUrl: '/pdfs/jack-oconnor.pdf',
+    pdfUrl: '/pdfs/jack-o-connor.pdf',
     pinterestSearch: 'https://www.pinterest.com/search/pins/?q=1960s+men+dark+navy+blue+tailored+suit+white+shirt+burgundy+tie+senator+style',
     themeSong: {
       title: 'My Way',
@@ -31,7 +31,7 @@ export const characters = {
     title: 'Senators Ehefrau',
     silhouetteIcon: '👒',
     imageUrl: '/culinario-mortales/images/characters/madeleine-oconnor.svg',
-    pdfUrl: '/pdfs/madeleine-oconnor.pdf',
+    pdfUrl: '/pdfs/madeleine-o-connor.pdf',
     pinterestSearch: 'https://www.pinterest.com/search/pins/?q=1960s+pink+boucle+suit+pillbox+hat+white+gloves+clutch+patent+leather+pumps+jackie+kennedy+style',
     themeSong: {
       title: 'Moon River',
