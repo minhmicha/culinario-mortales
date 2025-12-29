@@ -6,7 +6,7 @@ export const characters = {
     title: 'Senator',
     silhouetteIcon: '🎩',
     imageUrl: '/culinario-mortales/images/characters/jack-oconnor.svg',
-    pdfUrl: '/culinario-mortales/pdfs/jack-o-connor.pdf',
+    pdfUrl: '/pdfs/jack-oconnor.pdf',
     pinterestSearch: 'https://www.pinterest.com/search/pins/?q=1960s+men+dark+navy+blue+tailored+suit+white+shirt+burgundy+tie+senator+style',
     themeSong: {
       title: 'My Way',
@@ -31,7 +31,7 @@ export const characters = {
     title: 'Senators Ehefrau',
     silhouetteIcon: '👒',
     imageUrl: '/culinario-mortales/images/characters/madeleine-oconnor.svg',
-    pdfUrl: '/culinario-mortales/pdfs/madeleine-o-connor.pdf',
+    pdfUrl: '/pdfs/madeleine-oconnor.pdf',
     pinterestSearch: 'https://www.pinterest.com/search/pins/?q=1960s+pink+boucle+suit+pillbox+hat+white+gloves+clutch+patent+leather+pumps+jackie+kennedy+style',
     themeSong: {
       title: 'Moon River',
@@ -58,7 +58,7 @@ export const characters = {
     title: 'Hotel-Tycoon & Gastgeber',
     silhouetteIcon: '💼',
     imageUrl: '/culinario-mortales/images/characters/frederic-price.svg',
-    pdfUrl: '/culinario-mortales/pdfs/frederic-price.pdf',
+    pdfUrl: '/pdfs/frederic-price.pdf',
     pinterestSearch: 'https://www.pinterest.com/search/pins/?q=1960s+men+dark+suit+white+shirt+open+collar+no+tie+wealthy+businessman+tycoon',
     themeSong: {
       title: 'Fly Me to the Moon',
@@ -83,7 +83,7 @@ export const characters = {
     title: 'Schauspiel-Ikone',
     silhouetteIcon: '💎',
     imageUrl: '/culinario-mortales/images/characters/dora-galor-price.svg',
-    pdfUrl: '/culinario-mortales/pdfs/dora-galor-price.pdf',
+    pdfUrl: '/pdfs/dora-galor-price.pdf',
     pinterestSearch: 'https://www.pinterest.com/search/pins/?q=1960s+long+evening+gown+pearl+jewelry+necklace+old+hollywood+glamour+actress+icon',
     themeSong: {
       title: 'Diamonds Are Forever',
@@ -133,7 +133,7 @@ export const characters = {
     title: 'Chefredakteurin Modemagazin',
     silhouetteIcon: '📝',
     imageUrl: '/culinario-mortales/images/characters/brigitte-dupont.svg',
-    pdfUrl: '/culinario-mortales/pdfs/brigitte-dupont-.pdf',
+    pdfUrl: '/pdfs/brigitte-dupont-.pdf',
     pinterestSearch: 'https://www.pinterest.com/search/pins/?q=1960s+high+neck+collar+blouse+swing+skirt+fashion+editor+professional+chic',
     themeSong: {
       title: 'La Vie en Rose',
@@ -183,7 +183,7 @@ export const characters = {
     title: 'Baron & Talent-Agent',
     silhouetteIcon: '🎭',
     imageUrl: '/culinario-mortales/images/characters/theodor-von-gollwitz.svg',
-    pdfUrl: '/culinario-mortales/pdfs/theodor-gollwitz.pdf',
+    pdfUrl: '/pdfs/theodor-von-gollwitz.pdf',
     pinterestSearch: 'https://www.pinterest.com/search/pins/?q=1960s+tuxedo+smoking+jacket+bow+tie+pocket+square+elegant+formal+baron',
     themeSong: {
       title: 'Strangers in the Night',
